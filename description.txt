@@ -1,0 +1,54 @@
+The project involves developing a platform for the solar services company BESS B.S.L. using the MERN stack (MongoDB, Express.js, React, Node.js). The main objective is to create a system where users can register, log in, and access various services, including solar panel installation and courses on solar energy.
+
+Team Members and Primary Roles:
+
+Sameh Nasri - Lead Developer
+Houssem  Garwachi- Lead Developer
+Features to Include in the MVP (Minimum Viable Product):
+
+Authentication and User Management:
+
+User registration with email, password, and other relevant details.
+Login for registered users.
+Password reset.
+Home Page:
+
+Presentation of the company and its services.
+Quick access to main services (solar panel installation, solar energy courses).
+Services:
+
+Request form for solar panel installation.
+List of available courses on solar energy.
+Messaging:
+
+Contact form to send messages to the company.
+Admin Dashboard:
+
+User management (display, edit, delete).
+Management of received messages.
+Management of solar panel installation requests.
+Product Backlog (Features to Add After the MVP):
+
+Notifications:
+
+Email notifications for new requests and messages.
+Notifications for course updates.
+Online Payment:
+
+Integration of an online payment system for services and courses.
+Project Tracking:
+
+Tracking of solar panel installation projects.
+Status updates of projects for users.
+Reports and Statistics:
+
+Generation of reports for administrators.
+Statistics on service requests and course usage.
+Multilingual Support:
+
+Addition of multiple language support for an international audience.
+Social Media Integration:
+
+Social media login.
+Sharing of courses and services on social media.
+This plan will enable a quick launch of a functional version of the platform, with essential features to attract initial users and gather feedback for future improvements.
